@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeautifyMe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d7fcaba1707483bd880d8d8e4be7aeea19edd07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+429c80086bbacbb467bbde2061a9855b19eb8c9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BeautifyMe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BeautifyMe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
